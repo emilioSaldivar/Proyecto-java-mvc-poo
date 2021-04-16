@@ -61,7 +61,7 @@
                conformidad)</li><br>
 
                <H3>Ubicacion</H3>
-               <iframe src="https://www.instagram.com/deltablon_py/" width="600" height="400"></iframe>
+               <iframe src="https://www.google.com/maps/dir//-25.5144057,-57.3567462/@-25.514638,-57.356703,19z?hl=en" width="600" height="400"></iframe>
          </div>
          
          <div>
