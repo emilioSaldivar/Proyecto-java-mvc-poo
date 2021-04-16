@@ -60,9 +60,6 @@
                <li>Relacionamiento directo con el cliente (Particular, Aseguradoras), gestión de documentación (facturación, orden de trabajo,
                conformidad)</li><br>
 
-               <H3>Ubicacion</H3>
-               <iframe src="https://goo.gl/maps/nJo5TohD8Rq44JF36" width="600" height="400"></iframe>
-	       <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=NANAWA%202001%20Ita+(Ubicacion%20Taller%20Robert%20Ita)&amp;t=k&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href="https://maps-website.com/es">En www.maps-generator.com</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=f27d3b5ae4cc93a7d0d9bddd4291cfac4a345f2a'></script>
          </div>
          
          <div>
