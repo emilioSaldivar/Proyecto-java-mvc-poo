@@ -10,8 +10,7 @@
    </head>
    <body>
 	   <div>
-              <img src="https://emiliosaldivar.github.io/pagina-web/#contacto
-              "><br>
+              <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEBZokPd9_0zw/profile-displayphoto-shrink_200_200/0/1600961431632?e=1619049600&v=beta&t=VtP3xNxvSJN7Ud3AEfo2Kzjr4pOY78mk6FZavZGeoOw"><br>
            </div>
    	   <div><header>
    	   	   <nav>
