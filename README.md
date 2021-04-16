@@ -101,6 +101,6 @@
          
          
    
-   <marquee id="ejemplo" direction="up">MI PRIMERA VEZ PROGRAMANDO escribuendo en html Profe </marquee><a href="javascript:void(0);" onclick="getElementById('ejemplo').direction='down';">Hacia abajo</a>---<a href="javascript:void(0);" onclick="getElementById('ejemplo').direction='up';">Hacia arriba</a>
+   <marquee id="ejemplo" direction="up">MI PRIMERA VEZ  escribiendo en html Profe perdon si es feo pero la idea esta ya clara </marquee><a href="javascript:void(0);" onclick="getElementById('ejemplo').direction='down';">Hacia abajo</a>---<a href="javascript:void(0);" onclick="getElementById('ejemplo').direction='up';">Hacia arriba</a>
 
 
