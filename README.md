@@ -97,10 +97,10 @@
    	   	   <li>LinkedIN: <a href="https://py.linkedin.com/in/emilio-matias-saldivar-caputo-289046198">Emilio Matias Saldivar Caputo.</a>
    	   	   <li>Instagram: <a href="https://www.instagram.com/emiliosaldivar__/">@emiliosaldivar__</a>
    	   	   <li>Facebook: <a href="https://www.facebook.com/emiliomatiasc">Emilio Saldivar.</a>
-            </p>
+            
          
          
-   </body>
+   
    <marquee id="ejemplo" direction="up">AQUI VA EL TEXTO QUE DESEES </marquee><a href="javascript:void(0);" onclick="getElementById('ejemplo').direction='down';">Hacia abajo</a>---<a href="javascript:void(0);" onclick="getElementById('ejemplo').direction='up';">Hacia arriba</a>
 </html>ina-web/
 
