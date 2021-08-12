@@ -1,0 +1,7 @@
+com\emiliosaldivar\peliculas\datos\IAccesoDatos.class
+cpjlaboratoriofinal\CatalogoPeliculasPresentacion.class
+cpjlaboratoriofinal\CPJLaoratorioFinal.class
+com\emiliosaldivar\peliculas\negocio\ICatalogoPeliculas.class
+com\emiliosaldivar\peliculas\domain\Pelicula.class
+com\emiliosaldivar\peliculas\negocio\CatalogoDePeliculasImpl.class
+com\emiliosaldivar\peliculas\datos\AccesoDatosImpl.class
